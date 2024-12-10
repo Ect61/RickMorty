@@ -1,7 +1,7 @@
 const APIs = {
-    Brand: 'http://depatemizlik.com/turanmotorapi/brands.php',
-    Product: 'http://depatemizlik.com/turanmotorapi/products.php?brand_id=',
-    Order: 'http://depatemizlik.com/turanmotorapi/add_order.php',
+    Character: 'https://rickandmortyapi.com/api/character',
+    Location: 'https://rickandmortyapi.com/api/location',
+    Episode: 'https://rickandmortyapi.com/api/episode',
 }
 
 export default APIs;

@@ -1,4 +1,4 @@
-package com.turanmotors
+package com.rickmorty
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
